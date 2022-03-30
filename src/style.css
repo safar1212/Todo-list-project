@@ -3,18 +3,40 @@
 }
 
 main {
-  border: 2px black solid;
+  border: 2px whitesmoke solid;
   margin: 0 auto;
-  width: 30%;
-  display: flex;
-  flex-direction: column;
-  align-content: center;
-  justify-content: space-between;
-  align-items: center;
+  width: 40%;
 }
 
 main #clear-all {
   border: 2px white solid;
   height: 50px;
   width: 100%;
+  padding: 0 0;
+}
+
+main h1 {
+  border: 1px whitesmoke solid;
+  width: 100%;
+  height: 50px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+}
+
+main #input {
+  width: 100%;
+}
+
+main #input input {
+  border: 1px whitesmoke solid;
+  width: 100%;
+  height: 50px;
+}
+
+#list .items {
+  border-bottom: 2px whitesmoke solid;
+  height: 50px;
+  display: flex;
+  align-items: center;
 }
