@@ -1,6 +1,6 @@
 # Todo-list-project
 
-> This is a simple website for a list of to do things. In this simple software, you can add your to do list items. Moreover, you can add, remove or edit them anytime you want.
+> This is a simple CRUD software for a list of to-do things. In this simple software, you can add your to-do list items. Moreover, you can add, remove or edit them anytime you want. The languages used in this app are HTML, CSS, and JavaScript.
 
 
 ## Built With
